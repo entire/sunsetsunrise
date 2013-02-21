@@ -1,10 +1,14 @@
-# SunsetSunrise — calculating Sunset & Sunrise times for Objective-C
+# SunsetSunrise — for Objective-C
 
-Gets sunset and sunrise times by lat/long + TimeZone as well as:
+Calculates Sunset & Sunrise times by lat/long + TimeZone 
+
+Also calculates:
 
 - Azimuth
 - Epsilon
 - Delta Psi, Delta Epsilon
 - Zenith
 - Azimuth
-- Incidence, and more
+- Incidence
+- Sun transit, and more 
+
