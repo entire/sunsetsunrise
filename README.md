@@ -1,14 +1,19 @@
 # SunsetSunrise — for Objective-C
 
+obj-c wrapper around Solar Position Algorithm (SPA) by National Renewable Energy Laboratory
+
 Calculates Sunset & Sunrise times by lat/long + TimeZone 
 
 Also calculates:
 
-- Azimuth
-- Epsilon
-- Delta Psi, Delta Epsilon
+- Julian day
+- Julian century
+- Mean Anomaly (moon and sun)
+- Sun Right Ascension 
 - Zenith
 - Azimuth
 - Incidence
-- Sun transit, and more 
+
+
+
 
